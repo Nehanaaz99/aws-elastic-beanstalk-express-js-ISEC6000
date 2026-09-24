@@ -1,0 +1,12 @@
+node_modules
+coverage
+reports
+test
+.git
+.gitignore
+.dockerignore
+Jenkinsfile
+Dockerfile
+*.md
+.env
+*.pem
